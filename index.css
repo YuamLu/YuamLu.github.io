@@ -121,17 +121,10 @@ color: white;}
     color: #E8E2DB;
     margin-top: 1em;
 }
-#LMT{
-    width: 24em;
-    margin-left: 50em;
-    padding-right: 10em;
-    margin-top: -20em;
-    padding-bottom: 2em;
-}
 /*第二段介紹*/
 #intro_2{
     margin-left: 52%;
-
+    margin-right: 5%;
     margin-top: 10%;
     width: 40em;
 }
@@ -150,13 +143,6 @@ color: white;}
     color: #E8E2DB;
     margin-top: 1em;
 }
-#img2{
-    width: 24em;
-    margin-left: -45em;
-    padding-right: 10em;
-    padding-left: 17em;
-    margin-top: -20em;
-    padding-bottom: 2em;}
 /*第三段介紹*/
 #intro_3{
     margin-left: 5%;
@@ -178,13 +164,7 @@ color: white;}
     color: #E8E2DB;
     margin-top: 1em;
 }
-#img3{
-    width: 15em;
-    margin-left: 50em;
-    padding-right: 10em;
-    margin-top: -20em;
-    padding-bottom: 2em;
-}
+
 /*第四段介紹*/
 #intro_4{
     margin-left: 52%;
@@ -207,13 +187,6 @@ color: white;}
     color: #E8E2DB;
     margin-top: 1em;
 }
-#img4{
-    width: 11em;
-    margin-left: -45em;
-    padding-right: 10em;
-    padding-left: 17em;
-    margin-top: -20em;
-    padding-bottom: 2em;}
 
 #_hove{
     -webkit-transition-duration: 0.4s; /* Safari */
